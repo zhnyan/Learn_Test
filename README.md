@@ -1,5 +1,5 @@
 - [ ] how are you?
- - [ ] I'm fine, thank you!
+ - [X] I'm fine, thank you!
  # Top Title
  ## Second Title
  ### Third Title
