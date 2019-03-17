@@ -13,5 +13,6 @@
 支出|80,290|32,000|
 
 ```  
-print('hello, world!')  
+for i in range(10):
+ print('hello, world!')  
 ```
