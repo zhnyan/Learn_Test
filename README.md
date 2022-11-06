@@ -21,3 +21,10 @@ this is first paragraphs|this is first paragraphs|this is first paragraphs
 this is first paragraphs|this is first paragraphs|this is first paragraphs
 this is first paragraphs|this is first paragraphs|this is first paragraphs
 this is first paragraphs this is first paragraphs this is first paragraphs this is first paragraphs this is first paragraphs this is first paragraphs|this is first paragraphs this is first paragraphs this is first paragraphs this is first paragraphs | this is first paragraphs this is first paragraphs this is first paragraphs
+
+# test topics part
+## fold text
+<details>
+some contents are hidden
+another line be hidden
+</details>
